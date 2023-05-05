@@ -1,1 +1,1 @@
-<h1>A fast and ultra minimal cli system-info fetch written in rust</h1> <img class="emoji" alt="crab" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">
+<h1>A fast and ultra minimal cli system-info fetch written in rust <img class="emoji" alt="crab" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png"></h1>
