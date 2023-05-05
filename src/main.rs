@@ -1,5 +1,4 @@
 mod ascii;
-
 use whoami::{username,hostname,distro};
 
 
