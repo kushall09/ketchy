@@ -5,6 +5,6 @@ authors = ["kushall09"]
 edition = "2018"
 
 [dependencies]
-termcolor = "1.1.0"
+colored = "2.0.0"
 nixinfo = "0.3.2"
 whoami ="1.3.0"
