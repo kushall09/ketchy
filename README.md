@@ -3,5 +3,14 @@
 
 ![image](https://user-images.githubusercontent.com/83326666/236612442-226b976a-f2ce-4079-a117-4ec815ed5e45.png)
 
+<pre><code> $ git clone https://github.com/kushall09/ketchy </code>
+<code> $ cd ketchy && cargo build </code>
+<code> $ cargo run</code></pre>
+<i>To install as user binary !</i>
+<pre>
+<code> $ cp target/debug/ketchy /usr/local/bin </code>
+</pre>
+
+
 
 
