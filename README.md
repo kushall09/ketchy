@@ -5,7 +5,7 @@
 
 
 <pre><code> $ git clone https://github.com/kushall09/ketchy </code>
-<code> $ cd ketchy && cargo build </code>
+<code> $ cd ketchy && cargo build --release </code>
 <code> $ cargo run</code></pre>
 <i>To install as user binary !</i>
 <pre>
